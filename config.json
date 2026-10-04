@@ -1,6 +1,6 @@
 {
   "status": "打开",
   "version": "1.0.1",
-  "download_url": "你的新版本下载链接",
-  "notice": "本次更新优化了RVA解析速度"
+  "download_url": "https://github.com/YouLongnb666177/YL/releases/download/YL_v1.0.1/YL_Runs_Python",
+  "notice": "更新：优化了RVA解析速度，加入云端热更新"
 }
