@@ -1,6 +1,6 @@
 {
-  "状态": "打开",
-  "版本": "1.0.1",
+  "status": "on",
+  "version": "1.0.1",
   "download_url": "https://github.com/YouLongnb666177/YL/releases/download/YL_v1.0.1/YL_v1.0.1_Runs_Python",
-  "通知": "本次更新优化了RVA解析速度"
+  "notice": "更新：优化了RVA解析速度"
 }
